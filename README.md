@@ -6,7 +6,7 @@
 
 <h3> <strong> CS50x </strong> (CS50: Introduction to Computer Science) </h3>
 
-<rr>
+<hr>
 
 <p> This is CS50x , Harvard University's introduction to the intellectual enterprises of computer science and the art
   of programming for majors and non-majors alike, with or without prior programming experience. An entry-level course taught by David J. Malan, 
