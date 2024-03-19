@@ -8,4 +8,4 @@
   Problem sets inspired by real-world domains of biology, cryptography, finance, forensics, and gaming. The on-campus version of CS50x
   , CS50, is Harvard's largest course. </p>
 
-<img src="CS50/Certificate cs50xCS50/CS50x.png" alt="CS50x" width="500" height="600">
+<img src="CS50-Certificate-Harvard-University/CS50/Certificate cs50xCS50/CS50x.png" alt="CS50x" width="500" height="600">
