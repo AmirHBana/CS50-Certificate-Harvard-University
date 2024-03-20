@@ -18,7 +18,7 @@
 
 <img src="https://private-user-images.githubusercontent.com/140143893/314185892-6cb04d47-144d-4d04-a2a5-aee66c117b37.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTA4NzMyNjUsIm5iZiI6MTcxMDg3Mjk2NSwicGF0aCI6Ii8xNDAxNDM4OTMvMzE0MTg1ODkyLTZjYjA0ZDQ3LTE0NGQtNGQwNC1hMmE1LWFlZTY2YzExN2IzNy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMxOVQxODI5MjVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00ZDU0MzNmYzRkMTE5ZjllNmFlOWI3NmVlYzQyNTliMjkyM2UzZDZhN2EzZGY0Zjg2NDQ4NTBhZTFmZDg3MWIzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.d27IYICZjhabCfpvwbpdiKPimrv5az6SMnbkm-BxEYw" alt="CS50x" width="800" height="600">
 
-![Image Alt text](/(https://github.com/AmirHBana/CS50-Certificate-Harvard-University/blob/main/CS50/Certificate%20cs50x/CS50x.png)
+<img src="https://github.com/AmirHBana/CS50-Certificate-Harvard-University/blob/main/CS50/Certificate%20cs50x/CS50x.png">
 
 <br>
 <br>
