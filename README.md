@@ -17,7 +17,7 @@
   <br>
 
 
-<img src="https://github.com/AmirHBana/CS50-Certificate-Harvard-University/blob/main/CS50/Certificate%20cs50x/CS50x.png" width="800" height="600">
+<img src="https://github.com/AmirHBana/CS50-Certificate-Harvard-University/blob/main/CS50/Certificate%20cs50x/CS50x.png" style="max-width: 100%; max-height: 70%;">
 
 <br>
 <br>
@@ -34,7 +34,7 @@ Whereas CS50x itself focuses on computer science more generally as well as progr
 <br>
 
 
-<img src="https://github.com/AmirHBana/CS50-Certificate-Harvard-University/blob/main/CS50/Certificate%20cs50p/CS50P%20.png" alt="CS50p" width="800" height="600">
+<img src="https://github.com/AmirHBana/CS50-Certificate-Harvard-University/blob/main/CS50/Certificate%20cs50p/CS50P%20.png" alt="CS50p" style="max-width: 100%; max-height: 70%;">
 
 <br>
 <br>
@@ -47,7 +47,7 @@ Whereas CS50x itself focuses on computer science more generally as well as progr
 
 <br>
 
-<img src="https://github.com/AmirHBana/CS50-Certificate-Harvard-University/blob/main/CS50/Certificate%20cs50s/CS50S.png" alt="CS50s" width="800" height="600">
+<img src="https://github.com/AmirHBana/CS50-Certificate-Harvard-University/blob/main/CS50/Certificate%20cs50s/CS50S.png" alt="CS50s" style="max-width: 100%; max-height: 70%;">
 
 
 
